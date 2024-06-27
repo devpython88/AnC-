@@ -1,2 +1,2 @@
-# AnC-
+# AnC++
 Lightweight c++ code editor
